@@ -1,2 +1,2 @@
-# ITS_Course
-ITS Course Repository for Students
+# ITS Course
+Used as a storage for uploading the datasets.
